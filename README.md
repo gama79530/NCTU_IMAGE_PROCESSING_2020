@@ -26,3 +26,11 @@ gradient magnitude as the "weight" for each pixel. Optional here: Can you find a
 images as well. You will need to define "magnitude of gradient" for color images.
 
 ## PROJECT_3
+The objective of this assignment is for you to experiment with the various components of a JPEG codec.  
+These components include:
+1. Block based DCT
+2. Quantization of DCT coefficients (with adjustable quality)
+3. Predictive coding (between the DC coefficients of adjacent blocks)
+4. Run-length coding of the AC coefficients
+5. Chromatic subsampling
+6. Huffman coding
